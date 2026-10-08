@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`the jamily`,favicon:`https://framerusercontent.com/assets/7wLb9AnTHRtBv3YCK9ipXac3zQs.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/3QbHgEhhadCWShTbrXD3drQI.png`,title:`jamily`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.DblXk-xH.mjs.map
